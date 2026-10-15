@@ -1,0 +1,2 @@
+--I'm more curious about messing with parameters in functions to get different case result.
+--How can I get only customers with a last name that starts with 'w'?

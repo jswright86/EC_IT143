@@ -1,0 +1,1 @@
+-- I'm interested in creatig a view the events that caused the trigger to fire
